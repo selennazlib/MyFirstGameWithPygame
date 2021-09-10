@@ -1,5 +1,5 @@
 # My First Game with Pygame
-
+![](https://image.prntscr.com/image/Jl8WEt57S_y7GhSGTQf7yQ.png)
 This is my first game trial with pygame. Here are the libraries that I used :
  - pygame
  - random
